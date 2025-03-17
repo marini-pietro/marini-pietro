@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a open source project, a webapp for my school, one for my city and a game made in Godot Engine<br>🤝 I’m looking for help with computer graphics<br>🌱 I’m currently learning Godot Engine and computer graphcis<br>
+🔭 I’m currently working on a open source project, a webapp for my school, one for my city and a game made in Godot Engine<br>🤝 I’m looking for help with computer graphics<br>🌱 I’m currently learning Godot Engine and computer graphics<br>
 
 
 # 💻 Tech Stack:
