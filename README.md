@@ -1,7 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a open source project, a web app for my school, one for my city and a game made in the Godot engine.<br>
-🤝 I’m looking for help with computer graphics.<br>
-🌱 I’m currently learning the Godot engine and computer graphics.<br>
+🔭 I’m currently working on a Yu-Gi-Oh! related open source project, a web app for my school, one for my city and a game made in the Godot engine.<br>
+🌱Currently finishing high school, will be starting computer science st thr university of Trento in late 2025.<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -29,10 +28,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=marini-pietro&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=marini-pietro&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
