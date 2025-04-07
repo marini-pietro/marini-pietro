@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a Yu-Gi-Oh! related open source project, a web app for my school, one for my city and a game made in the Godot engine.<br>
-🌱Currently finishing high school, will be starting computer science st thr university of Trento in late 2025.<br>
+🌱Currently finishing high school, will be starting computer science at the university of Trento in late 2025.<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
