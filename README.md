@@ -45,8 +45,8 @@ Current projects as of November of 2025:
 			<td>
 				<a href="https://www.youtube.com/watch?v=DrM2lo6B04I&list=RDDrM2lo6B04I" target="_blank" style="text-decoration:none;">
 					<div style="position:relative; display:inline-block;">
-						<img src="https://i.scdn.co/image/ab67616d0000b273e2e2e2e2e2e2e2e2e2e2e2e2" alt="Forget Not Cover" width="150" style="border-radius:10px;" />
-						<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Circle-icons-play.svg" alt="Play" width="50" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.8;" />
+						<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Portal_Of_I.png/250px-Portal_Of_I.png" alt="Forget Not Cover" width="150" style="border-radius:10px;" />
+						<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/TriangleArrow-White-Right.svg" alt="Play" width="50" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.7;pointer-events:none;" />
 					</div>
 				</a>
 				<div style="font-size:small;">Forget Not<br><i>Ne Obliviscaris</i></div>
@@ -54,8 +54,8 @@ Current projects as of November of 2025:
 			<td>
 				<a href="https://www.youtube.com/watch?v=BO9C9_V9cNQ&list=PLGDug95duClre09u7dw3dOezLX2KRYjaQ" target="_blank" style="text-decoration:none;">
 					<div style="position:relative; display:inline-block;">
-						<img src="https://i.scdn.co/image/ab67616d0000b273f3f3f3f3f3f3f3f3f3f3f3f3" alt="Neural Collapse Cover" width="150" style="border-radius:10px;" />
-						<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Circle-icons-play.svg" alt="Play" width="50" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.8;" />
+						<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Orbit_Culture_%E2%80%93_Death_Above_Life.jpg/250px-Orbit_Culture_%E2%80%93_Death_Above_Life.jpg" alt="Neural Collapse Cover" width="150" style="border-radius:10px;" />
+						<img src="https://commons.wikimedia.org/wiki/Category:Play_icons#/media/File:TriangleArrow-White-Right.svg" alt="Play" width="50" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.8;" />
 					</div>
 				</a>
 				<div style="font-size:small;">Neural Collapse<br><i>Orbit Culture</i></div>
@@ -63,6 +63,7 @@ Current projects as of November of 2025:
 		</tr>
 	</table>
 </div>
+<br>
 
 Languages:
 - 🇮🇹 Italian: Native speaker
