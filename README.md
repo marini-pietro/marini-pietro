@@ -40,28 +40,17 @@ Current projects as of November of 2025:
 <br>
 <h3 align="center">Current music obsessions</h3>
 <div align="center">
-	<table>
-		<tr>
-			<td>
-				<a href="https://www.youtube.com/watch?v=DrM2lo6B04I&list=RDDrM2lo6B04I" target="_blank" style="text-decoration:none;">
-					<div style="position:relative; display:inline-block;">
-						<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Portal_Of_I.png/250px-Portal_Of_I.png" alt="Forget Not Cover" width="150" style="border-radius:10px;" />
-						<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/TriangleArrow-White-Right.svg" alt="Play" width="50" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.7;pointer-events:none;" />
-					</div>
-				</a>
-				<div style="font-size:small;">Forget Not<br><i>Ne Obliviscaris</i></div>
-			</td>
-			<td>
-				<a href="https://www.youtube.com/watch?v=BO9C9_V9cNQ&list=PLGDug95duClre09u7dw3dOezLX2KRYjaQ" target="_blank" style="text-decoration:none;">
-					<div style="position:relative; display:inline-block;">
-						<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Orbit_Culture_%E2%80%93_Death_Above_Life.jpg/250px-Orbit_Culture_%E2%80%93_Death_Above_Life.jpg" alt="Neural Collapse Cover" width="150" style="border-radius:10px;" />
-						<img src="https://commons.wikimedia.org/wiki/Category:Play_icons#/media/File:TriangleArrow-White-Right.svg" alt="Play" width="50" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.8;" />
-					</div>
-				</a>
-				<div style="font-size:small;">Neural Collapse<br><i>Orbit Culture</i></div>
-			</td>
-		</tr>
-	</table>
+  <a href="https://www.youtube.com/watch?v=DrM2lo6B04I&list=RDDrM2lo6B04I" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Portal_Of_I.png/250px-Portal_Of_I.png" alt="Forget Not Cover" width="150" />
+    <br>
+    <b>Forget Not</b><br><i>Ne Obliviscaris</i>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=BO9C9_V9cNQ&list=PLGDug95duClre09u7dw3dOezLX2KRYjaQ" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Orbit_Culture_%E2%80%93_Death_Above_Life.jpg/250px-Orbit_Culture_%E2%80%93_Death_Above_Life.jpg" alt="Neural Collapse Cover" width="150" />
+    <br>
+    <b>Neural Collapse</b><br><i>Orbit Culture</i>
+  </a>
 </div>
 <br>
 
