@@ -38,6 +38,31 @@ Current projects as of November of 2025:
 - Article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest site about Yu-Gi-Oh! in the world (you can find my work under the name bureikou)
 
 <br>
+<h3 align="center">Current music obsessions</h3>
+<div align="center">
+	<table>
+		<tr>
+			<td>
+				<a href="https://www.youtube.com/watch?v=DrM2lo6B04I&list=RDDrM2lo6B04I" target="_blank" style="text-decoration:none;">
+					<div style="position:relative; display:inline-block;">
+						<img src="https://i.scdn.co/image/ab67616d0000b273e2e2e2e2e2e2e2e2e2e2e2e2" alt="Forget Not Cover" width="150" style="border-radius:10px;" />
+						<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Circle-icons-play.svg" alt="Play" width="50" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.8;" />
+					</div>
+				</a>
+				<div style="font-size:small;">Forget Not<br><i>Ne Obliviscaris</i></div>
+			</td>
+			<td>
+				<a href="https://www.youtube.com/watch?v=BO9C9_V9cNQ&list=PLGDug95duClre09u7dw3dOezLX2KRYjaQ" target="_blank" style="text-decoration:none;">
+					<div style="position:relative; display:inline-block;">
+						<img src="https://i.scdn.co/image/ab67616d0000b273f3f3f3f3f3f3f3f3f3f3f3f3" alt="Neural Collapse Cover" width="150" style="border-radius:10px;" />
+						<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Circle-icons-play.svg" alt="Play" width="50" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.8;" />
+					</div>
+				</a>
+				<div style="font-size:small;">Neural Collapse<br><i>Orbit Culture</i></div>
+			</td>
+		</tr>
+	</table>
+</div>
 
 Languages:
 - 🇮🇹 Italian: Native speaker
