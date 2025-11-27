@@ -58,6 +58,14 @@ Current projects as of November of 2025:
 				</a>
 				<div style="font-size:small;">Neural Collapse<br><i>Orbit Culture</i></div>
 			</td>
+			<td>
+				<a href="https://www.youtube.com/watch?v=bpjOvdlqJZA&list=RDDrM2lo6B04I" target="_blank">
+				<div>
+					<img src="https://f4.bcbits.com/img/a1401321311_16.jpg" alt="Face of Melinda Cover" width="150"/>
+				</div>
+				</a>
+				<div style="font-size:small;">Face of Melinda<br><i>Opeth</i></div>
+			</td>
 		</tr>
 	</table>
 </div>
