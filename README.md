@@ -74,7 +74,7 @@ Current projects as of November of 2025:
 Languages:
 - 🇮🇹 Italian: Native speaker
 - 🇬🇧 English: C1 Cambridge certified
-- More coming soon (I want to become a polyglot in the future)
+- More soon (I want to become a polyglot in the future)
 
 
 ## Most used technologies
