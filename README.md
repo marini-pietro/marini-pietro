@@ -21,7 +21,7 @@ Education as of November of 2025:
 
 - Finished high school at ITIS Marconi Verona in 2025 where I received the title of perito informatico (more or less IT/Computer Technician in english) with high grades
 
-- Attending the first year of a computer science degree held entirely in english at the University of Trento
+- Attending the first year of a computer science degree held in english at the University of Trento
 
 <br>
 
@@ -116,7 +116,8 @@ Thanks for checking out my profile, feel free to contact me if you want to colla
 
 <p align="center" style="font-size:small;">
 <b>Copyright & Licensing:</b><br>
-I waive all copyright and licensing restrictions for this README file. You are free to copy, modify, and use it for any purpose, personal or commercial, without limitation or attribution (but it's still appreciated if you want 🦦).
+I waive all copyright and licensing restrictions for this README file.  
+You are free to copy, modify, and use it for any purpose, personal or commercial, without limitation or attribution (but it's still appreciated if you want 🦦).
 </p>
 
 ---
