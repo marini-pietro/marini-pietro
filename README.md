@@ -31,7 +31,7 @@ Current projects as of November of 2025:
   
 - A backend developer and software architect, building a scalable web app for public workers and firefighters using a microservice architecture and custom made RESTful APIs (see IDRANJIA repository if you are curios or just send me an email/message)
   
-- Creating a movement shooter game about the tale of Icarus using Godot as a solo developer (through my own indie studio called Musciu Studios)
+- Studying to build my own indie game development studio
 
 - Website, discord bots and overall IT solutions used in the [university of Trento E-Sports organization](https://unitnesports.it/)
 
