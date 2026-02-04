@@ -27,9 +27,9 @@ Education as of November of 2025:
 
 Current projects as of November of 2025:
 
-- Developing a Yu-Gi-Oh! open source application called Tracer to simplify the creation of combo sheets (I plan to release this as a FOSS application for the community)
+- Developing a Yu-Gi-Oh! open source application called Tracer to simplify the creation of combo sheets (planning to release this as a FOSS application for the community)
   
-- A backend developer and software architect, building a scalable web app for public workers and firefighters using a microservice architecture and custom made RESTful APIs (see IDRANJIA repository if you are curios or just send me an email/message)
+- IDRANTI-SICURI-BE: Scalable backend solution for web app made for public workers and firefighters built upon microservices and RESTful APIs (I work as the only software architect and backend developer with two frontend developers)
   
 - Studying to build my own indie game development studio
 
