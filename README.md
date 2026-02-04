@@ -74,7 +74,7 @@ Current projects as of November of 2025:
 Languages:
 - 🇮🇹 Italian: Native speaker
 - 🇬🇧 English: C1 Cambridge certified
-- More soon (I want to become a polyglot in the future)
+- More soon
 
 
 ## Most used technologies
@@ -97,20 +97,19 @@ Languages:
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 	<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
-	<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 	<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
 </p>
 
 <br>
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="fun gif" />
+	<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="octocat gif" />
 </p>
 
 <br>
 
 <p align="center">
-Thanks for checking out my profile, feel free to contact me if you want to collaborate or have any curiosities or doubts.  
+Thanks for checking out my profile, feel free to contact me if you want to collaborate or have any curiosities.  
 </p>
 <p align="center"> Have a great day!</p>
 
