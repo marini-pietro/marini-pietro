@@ -14,7 +14,7 @@ Yeah I know it's a lot... 🤫
 <p align="center">
 	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJhcDBvdW12enRoZm5xZzF4N2I4NDc4cnptbWh2MDEwNHN1ejJ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2B3o1iqmzNOo/giphy.gif" alt="otter gif" />
 </p>
-<p align="center" style="font-size:smaller; margin-top:-10px; margin-bottom:0; max-width:350px; margin-left:auto; margin-right:auto; word-break:break-word;">Huge lover of animals, especially cats and otters (I might even say that otters are my spirit animals 🦦)</p>
+<p align="center" style="font-size:smaller; margin-top:-10px; margin-bottom:0; max-width:350px; margin-left:auto; margin-right:auto; word-break:break-word;">No reason for this gif, its just nice</p>
 <br>
 
 Education as of November of 2025:
@@ -35,7 +35,7 @@ Current projects as of November of 2025:
 
 - Website, discord bots and overall IT solutions used in the [university of Trento E-Sports organization](https://unitnesports.it/)
 
-- Article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest site about Yu-Gi-Oh! in the world (you can find my work under the name bureikou)
+- Article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest site about Yu-Gi-Oh! in the world
 
 <br>
 <h3 align="center">Current music obsessions</h3>
