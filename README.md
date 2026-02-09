@@ -38,7 +38,7 @@ Current projects as of November of 2025:
 - Article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest site about Yu-Gi-Oh! in the world
 
 <br>
-<h3 align="center">Current music obsessions</h3>
+<h3 align="center">Current favourite music</h3>
 <div align="center">
 	<table>
 		<tr>
