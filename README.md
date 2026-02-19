@@ -8,8 +8,7 @@ Strong FOSS advocate (much of my work is and will available as FOSS) and organiz
 <br>
 
 Outside of coding and technology I really enjoy gaming, philosophy, history, martial arts, parkour, cooking (and its history), languages and all kinds of art, primarly paintings/drawings, writing, music, dubbing, movie making (with an emphasis on CGI), computer graphics and game development.  
-In the future I aim to becoming proficient in these fields (i.e. writing a book, releasing music, making games, etc...).  
-Yeah I know it's a lot... 🤫 
+In the future I aim to becoming proficient in these fields (i.e. writing a book, releasing music, making games, etc...).
 
 <p align="center">
 	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJhcDBvdW12enRoZm5xZzF4N2I4NDc4cnptbWh2MDEwNHN1ejJ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2B3o1iqmzNOo/giphy.gif" alt="otter gif" />
