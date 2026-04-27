@@ -25,7 +25,6 @@ Current projects:
 
 - Article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest sites about Yu-Gi-Oh! in the world
 
-<br>
 <h3>Current favourite music</h3>
 <div>
 	<table>
@@ -100,12 +99,6 @@ Languages:
 Thanks for checking out my profile, feel free to contact me if you want to collaborate or have any curiosities.  
 </p>
 <p align="center"> Have a great day!</p>
-
-<p align="center" style="font-size:small;">
-Copyright & Licensing:<br>
-I waive all copyright and licensing restrictions for this README file.  
-You are free to copy, modify, and use it for any purpose, personal or commercial, without limitation or attribution (but it's still appreciated if you want 🦦).
-</p>
 
 ---
 
