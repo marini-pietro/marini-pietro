@@ -12,7 +12,7 @@ In the future I aim to becoming proficient in these fields (i.e. writing a book,
 <p align="center">
 	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJhcDBvdW12enRoZm5xZzF4N2I4NDc4cnptbWh2MDEwNHN1ejJ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2B3o1iqmzNOo/giphy.gif" alt="otter gif" />
 </p>
-<p align="center" style="font-size:smaller; margin-top:-10px; margin-bottom:0; max-width:350px; margin-left:auto; margin-right:auto; word-break:break-word;">No reason for this gif, it's just nice</p>
+
 <br>
 
 Current projects:
