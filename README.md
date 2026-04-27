@@ -16,17 +16,9 @@ In the future I aim to becoming proficient in these fields (i.e. writing a book,
 <p align="center" style="font-size:smaller; margin-top:-10px; margin-bottom:0; max-width:350px; margin-left:auto; margin-right:auto; word-break:break-word;">No reason for this gif, it's just nice</p>
 <br>
 
-Education as of November of 2025:
+Current projects:
 
-- Finished high school at ITIS Marconi Verona in 2025 where I received the title of perito informatico (more or less IT/Computer Technician in english) with high grades
-
-- Attending the first year of a computer science degree held in english at the University of Trento
-
-<br>
-
-Current projects as of November of 2025:
-
-- Developing a Yu-Gi-Oh! open source application called Tracer to simplify the creation of combo sheets (planning to release this as a FOSS application for the community)
+- Yu-Gi-Oh! open source application called Tracer to simplify the creation of combo sheets (planning to release this as a FOSS application for the community)
   
 - IDRANTI-SICURI-BE: Scalable backend solution for web app made for public workers and firefighters built upon microservices and RESTful APIs (I work as the only software architect and backend developer with two frontend developers)
   
@@ -73,7 +65,7 @@ Current projects as of November of 2025:
 Languages:
 - 🇮🇹 Italian: Native speaker
 - 🇬🇧 English: C1 Cambridge certified
-- More soon
+- More soon (hopefully)
 
 
 ## Most used technologies
