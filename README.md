@@ -26,8 +26,8 @@ Current projects:
 - Article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest sites about Yu-Gi-Oh! in the world
 
 <br>
-<h3 align="center">Current favourite music</h3>
-<div align="center">
+<h3>Current favourite music</h3>
+<div>
 	<table>
 		<tr>
 			<td>
