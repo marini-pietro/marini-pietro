@@ -4,7 +4,7 @@ So far my work has been mainly focused on back-end projects, but I do not like t
 
 Strong FOSS advocate (much of my work is and will available as FOSS) and organization/comments freak.
 
-Outside of coding and technology I really enjoy gaming, philosophy, history, martial arts, parkour, cooking (and its history), languages and all kinds of art, primarly paintings/drawings, writing, music, dubbing, movie making (with an emphasis on CGI), computer graphics and game development.  
+Outside of coding and technology I really enjoy gaming, philosophy, history, martial arts, parkour, cooking (and its history), languages and all kinds of art, primarly paintings/drawings, writing, music, voice acting, movie making (with an emphasis on CGI), computer graphics and game development.  
 In the future I aim to becoming proficient in these fields (i.e. writing a book, releasing music, making games, etc...).
 
 <p align="center">
@@ -23,7 +23,7 @@ Current projects:
 
 - Website, discord bots and overall IT solutions used in the [university of Trento E-Sports organization](https://unitnesports.it/)
 
-- Article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest site about Yu-Gi-Oh! in the world
+- Article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest sites about Yu-Gi-Oh! in the world
 
 <br>
 <h3 align="center">Current favourite music</h3>
