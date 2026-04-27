@@ -100,8 +100,6 @@ Thanks for checking out my profile, feel free to contact me if you want to colla
 </p>
 <p align="center"> Have a great day!</p>
 
----
-
 <br>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=marini-pietro&style=for-the-badge" alt="Profile views"/>
