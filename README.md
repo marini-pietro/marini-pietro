@@ -2,7 +2,6 @@ I'm Pietro Marini, a 19 year old developer from Italy.
 So far my work has been mainly focused on back-end projects, but I do not like to define myself in a single field.  
 <p align="right" style="font-size:small;"><i>"To define is to limit."</i> — Oscar Wilde, The Picture of Dorian Gray</p>
 
-I really enjoy building creative projects to explore new techologies and fields, and to build solutions useful day to day, while exploring new technologies and blending art with code.  
 Strong FOSS advocate (much of my work is and will available as FOSS) and organization/comments freak.
 
 <br>
