@@ -13,19 +13,24 @@ In the future I aim to becoming proficient in these fields (i.e. writing a book,
 
 <br>
 
-Current projects:
-
-- Yu-Gi-Oh! open source application called Tracer to simplify the creation of combo sheets (planning to release this as a FOSS application for the community)
+Some factoids and current projects of mine:
   
-- IDRANTI-SICURI-BE: Scalable backend solution for web app made for public workers and firefighters built upon microservices and RESTful APIs (I work as the only software architect and backend developer with two frontend developers)
+- I am working as the software architect, backend developer and software tester (also as a database designer kind of) for the backend of IDRANTI SICURI.<br>
+The project is intended to be a web app for firefighters to seek out the nearest hydrant in the time of need and for municipal employees to manage hydrant related data (first real project in this field, if you are experienced any feedback is much appreciated thank you).<br>
+Similar in purpose to [DAE DOVE](https://www.daedove.it/).
+
+- I'm studying Godot to create a Yu-Gi-Oh! open source application called Tracer to simplify the creation of combo sheets (planning to release this as a FOSS application for the Yu-Gi-Oh! community).<br>
+One of the next projects in line once I have some time available.
   
-- Studying to build my own indie game development studio
+- I'm studying to build to create my own indie videogame and a solo developer studio/"identity".
 
-- Website, discord bots and overall IT solutions used in the [university of Trento E-Sports organization](https://unitnesports.it/)
+- I manage the website, discord bots and overall IT solutions used in the university of Trento E-Sports organization.
 
-- Article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest sites about Yu-Gi-Oh! in the world
+- I'm an article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest sites about Yu-Gi-Oh! in the world (I'm in a huge writer's block though unfortunately).
 
-<h3>Current favourite music</h3>
+- I have a largely harmless genetic blood disorder, thalassemia minor-intermedia (I have some symptoms but no crises)
+
+<h3>Some of my current favourite music</h3>
 <div>
 	<table>
 		<tr>
@@ -61,46 +66,11 @@ Current projects:
 Languages:
 - 🇮🇹 Italian: Native speaker
 - 🇬🇧 English: C1 Cambridge certified
-- More soon (hopefully)
+- More soon once my once my schedule clears out
 
-
-## Most used technologies
-
-<p>
-	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-	<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-	<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-	<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-	<img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />
-	<img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" />
-	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-	<img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />
-	<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-	<img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-	<img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-	<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-	<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
-	<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-</p>
-
-<br>
+---
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="octocat gif" />
-</p>
-
-<br>
-
-<p align="center">
-Thanks for checking out my profile, feel free to contact me if you want to collaborate or have any curiosities.  
-</p>
-<p align="center"> Have a great day!</p>
-
-<br>
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=marini-pietro&style=for-the-badge" alt="Profile views"/>
+	Thanks for checking out my profile, feel free to contact me for anything.<br>
+	Have a great day!
 </p>
