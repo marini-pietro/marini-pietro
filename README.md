@@ -1,5 +1,5 @@
 I'm Pietro Marini, a 19 year old developer from Italy.  
-So far my work has been mainly focused on back-end projects, but I do not like to define myself in a single field.  
+So far my work has been mainly focused on back-end projects, but I don't like to define myself in a single field.  
 <p align="right" style="font-size:small;"><i>"To define is to limit."</i> — Oscar Wilde, The Picture of Dorian Gray</p>
 
 Strong FOSS advocate (much of my work is and will available as FOSS) and organization/comments freak.
@@ -28,7 +28,7 @@ One of the next projects in line once I have some time available.
 
 - I'm an article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest sites about Yu-Gi-Oh! in the world (I'm in a huge writer's block though unfortunately).
 
-- I have a largely harmless genetic blood disorder, thalassemia minor-intermedia (I have some symptoms but no crises)
+- I have a largely harmless genetic blood disorder, thalassemia minor-intermedia (I have some symptoms but no crises).
 
 <h3>Some of my current favourite music</h3>
 <div>
