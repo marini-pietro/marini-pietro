@@ -66,7 +66,7 @@ One of the next projects in line once I have some time available.
 Languages:
 - 🇮🇹 Italian: Native speaker
 - 🇬🇧 English: C1 Cambridge certified
-- More soon once my once my schedule clears out
+- More soon my once my schedule clears out
 
 ---
 
