@@ -2,7 +2,7 @@ I'm Pietro Marini, a 19 year old developer from Italy.
 So far my work has been mainly focused on back-end projects, but I don't like to define myself in a single field.  
 <p align="right" style="font-size:small;"><i>"To define is to limit."</i> — Oscar Wilde, The Picture of Dorian Gray</p>
 
-Strong FOSS advocate (much of my work is and will available as FOSS) and organization/comments freak.
+Strong FOSS advocate, much of my work is and will available as FOSS.
 
 Outside of coding and technology I really enjoy gaming, philosophy, history, martial arts, parkour, cooking (and its history), languages and all kinds of art, primarly paintings/drawings, writing, music, voice acting, movie making (with an emphasis on CGI), computer graphics and game development.  
 In the future I aim to becoming proficient in these fields (i.e. writing a book, releasing music, making games, etc...).
