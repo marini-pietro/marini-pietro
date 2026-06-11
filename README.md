@@ -28,8 +28,6 @@ One of the next projects in line once I have some time available.
 
 - I'm an article writer for [YGOProDeck](https://ygoprodeck.com/), one the largest sites about Yu-Gi-Oh! in the world (I'm in a huge writer's block though unfortunately).
 
-- I have a largely harmless genetic blood disorder, thalassemia minor-intermedia (I have some symptoms but no crises).
-
 <h3>Some of my current favourite music</h3>
 <div>
 	<table>
